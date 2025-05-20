@@ -23,7 +23,7 @@ J'aime créer des applications web fonctionnelles, apprendre de nouvelles techno
 
 ## 🔗 Liens utiles
 
-- [LinkedIn](https://www.linkedin.com/in/ton-lien)
+- [LinkedIn](https://www.linkedin.com/in/ouma%C3%AFma-afakkir/)
 - *(Bientôt ici : mon portfolio)*
 
 ---
