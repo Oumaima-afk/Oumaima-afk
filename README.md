@@ -19,7 +19,7 @@
 
 ## 🚀 Ce que je construis
 
-J'aime créer des applications web fonctionnelles, apprendre de nouvelles technologies, et comprendre le fonctionnement interne des applications. Je m'oriente progressivement vers le **développement full-stack**, avec un intérêt particulier pour le **back-end**.
+J'aime créer des applications web fonctionnelles, apprendre de nouvelles technologies, et comprendre le fonctionnement interne des applications. Je m'oriente progressivement vers le **développement full-stack**.
 
 ## 🔗 Liens utiles
 
