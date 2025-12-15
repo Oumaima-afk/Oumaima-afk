@@ -1,10 +1,14 @@
-# 👋 Hello, moi c'est Oumaïma !
+# 👋 Hello, moi c’est Oumaïma !
 
-🎓 Actuellement en formation **Concepteur Développeur d'Applications** chez [O'clock](https://oclock.io/), je me forme avec passion aux technologies du web.
+🎓 J’ai récemment **terminé la formation Concepteur Développeur d’Applications** chez [O'clock](https://oclock.io/) et je prépare actuellement le **passage du titre professionnel**, prévu prochainement.
 
-## 💻 Compétences
+Curieuse et rigoureuse, je m’oriente vers le **développement full-stack**, avec un intérêt marqué pour le **back-end**, l’architecture des applications et la compréhension des mécanismes internes du web.
 
-### Langages & Frameworks
+---
+
+## 💻 Compétences techniques
+
+### 🧠 Langages & Frameworks
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,36 +18,42 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+---
 
-### Bases de données & ORM
+### 🗄️ Bases de données & ORM
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
+---
 
-### Outils & Méthodologies
+### 🛠️ Outils & Méthodologies
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-*(Et utilisation d’outils de conception : wireframes, mockups, etc.)*
+*Conception d’applications : wireframes, mockups, modélisation de données, réflexion UX/UI.*
 
 ---
 
-## 🚀 Ce que je construis
+## 🚀 Ce que je fais actuellement
 
-J'aime créer des applications web fonctionnelles, apprendre de nouvelles technologies, et comprendre le fonctionnement interne des applications. Je m'oriente progressivement vers le développement full-stack avec une approche complète incluant la conception et le développement frontend et backend.
-
-## 🔗 Liens utiles
-
-- [LinkedIn](https://www.linkedin.com/in/ouma%C3%AFma-afakkir/)  
-- [Portfolio](https://oumaima-afakkir-conceptrice.onrender.com/)
+- Approfondissement du **back-end** (Node.js, NestJS, bases de données, architecture)  
+- Développement de projets personnels pour consolider mes compétences  
+- Veille technologique et montée en compétences continues  
 
 ---
 
-Merci de votre visite ! 😊
+## 🔗 Me retrouver ailleurs
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ouma%C3%AFma-afakkir/)  
+- 🌐 [Portfolio](https://oumaima-afakkir-conceptrice.onrender.com/)
+
+---
+
+Merci pour la visite et n’hésitez pas à parcourir mes projets 👋
