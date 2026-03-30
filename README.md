@@ -31,12 +31,20 @@ Je me spécialise en **développement Fullstack**, avec un focus particulier sur
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 
 ### Outils
-![Postman](https://img.shields.io/badge/Postman-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 *Conception d’applications : wireframes, mockups, modélisation de données, réflexion UX/UI.*
+
+---
+
+## En ce moment
+
+- **Kaja** *(projet perso en cours)* : Application mobile de gestion de sorties entre amis.
+  Stack : React Native · NestJS · PostgreSQL
+- **Apprentissage** : Java — formation en cours pour élargir mes compétences back-end.
 
 ---
 
