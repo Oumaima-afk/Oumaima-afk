@@ -44,7 +44,7 @@ Je me spécialise en **développement Fullstack**, avec un focus particulier sur
 
 - **Kaja** *(projet perso en cours)* : Application mobile de gestion de sorties entre amis.
   Stack : React Native · NestJS · PostgreSQL
-- **Apprentissage** : Java — formation en cours pour élargir mes compétences back-end.
+- **Apprentissage** : Java - formation en cours pour élargir mes compétences back-end.
 
 ---
 
